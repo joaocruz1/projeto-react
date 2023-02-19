@@ -1,0 +1,14 @@
+.fraseContainer {
+    background-color: brown;
+    border: 1px solid #111;
+}
+
+.fraseContent {
+    color: aqua;
+    background-color: aquamarine;
+    margin:0;
+}
+
+.containerList{
+    background-color: aqua;
+}
