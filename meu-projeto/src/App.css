@@ -31,3 +31,18 @@
     transform: rotate(360deg);
   }
 }
+
+button {
+  border-radius: 25%;
+  background-color: aquamarine;
+}
+
+input{
+  font-size: 15px;
+  margin-bottom: 5px;
+}
+
+label{
+  text-align: center;
+  margin-right: 5px;
+}
